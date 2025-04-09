@@ -5,7 +5,7 @@
 ##  Sobre o Projeto  
 Este é o meu primeiro projeto desenvolvido durante a imersão Dev em Dobro. A proposta foi criar uma página interativa inspirada no universo de Dragon Ball Z, aplicando conceitos fundamentais de HTML, CSS e JavaScript.
 
-## 🚀 Tecnologias Utilizadas  
+##  Tecnologias Utilizadas  
 - HTML5  
 - CSS3  
 - JavaScript  
